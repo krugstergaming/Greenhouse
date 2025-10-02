@@ -1,0 +1,11 @@
+fastapi==0.100.0
+uvicorn==0.23.0
+python-multipart==0.0.5
+cloudinary==1.32.0
+aiofiles==23.1.0
+PyJWT==2.8.0
+python-dotenv==1.0.0
+requests==2.31.0
+google-generativeai==0.3.2
+pg8000==1.30.3
+email-validator==2.1.0
